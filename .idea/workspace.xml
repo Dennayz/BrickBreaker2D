@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Brick Breaker:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4389cf80-ffae-4a31-b7b3-eeae38cc9648" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xy7RcIHdog1d4jcYjtUKkDxlxD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.12853467" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="brick.breaker.Main" />
+      <module name="Brick Breaker" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4389cf80-ffae-4a31-b7b3-eeae38cc9648" name="Default Changelist" comment="" />
+      <created>1582006473952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582006473952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1582007055801">
+      <screen x="0" y="22" width="1680" height="973" />
+    </state>
+    <state x="234" y="225" key="#com.intellij.ide.util.MemberChooser/0.22.1680.973@0.22.1680.973" timestamp="1582007055801" />
+    <state x="250" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582241995493">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state x="250" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.995@0.0.1680.995" timestamp="1582241995493" />
+    <state width="1638" height="169" key="GridCell.Tab.0.bottom" timestamp="1582241406518">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="169" key="GridCell.Tab.0.bottom/0.0.1680.1046@0.0.1680.1046" timestamp="1582189335072" />
+    <state width="1638" height="169" key="GridCell.Tab.0.bottom/0.0.1680.995@0.0.1680.995" timestamp="1582241406518" />
+    <state width="958" height="169" key="GridCell.Tab.0.bottom/0.22.1680.973@0.22.1680.973" timestamp="1582104655841" />
+    <state width="1638" height="169" key="GridCell.Tab.0.center" timestamp="1582241406515">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="169" key="GridCell.Tab.0.center/0.0.1680.1046@0.0.1680.1046" timestamp="1582189335071" />
+    <state width="1638" height="169" key="GridCell.Tab.0.center/0.0.1680.995@0.0.1680.995" timestamp="1582241406515" />
+    <state width="958" height="169" key="GridCell.Tab.0.center/0.22.1680.973@0.22.1680.973" timestamp="1582104655840" />
+    <state width="1638" height="169" key="GridCell.Tab.0.left" timestamp="1582241406514">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="169" key="GridCell.Tab.0.left/0.0.1680.1046@0.0.1680.1046" timestamp="1582189335070" />
+    <state width="1638" height="169" key="GridCell.Tab.0.left/0.0.1680.995@0.0.1680.995" timestamp="1582241406514" />
+    <state width="958" height="169" key="GridCell.Tab.0.left/0.22.1680.973@0.22.1680.973" timestamp="1582104655840" />
+    <state width="1638" height="169" key="GridCell.Tab.0.right" timestamp="1582241406517">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="169" key="GridCell.Tab.0.right/0.0.1680.1046@0.0.1680.1046" timestamp="1582189335072" />
+    <state width="1638" height="169" key="GridCell.Tab.0.right/0.0.1680.995@0.0.1680.995" timestamp="1582241406517" />
+    <state width="958" height="169" key="GridCell.Tab.0.right/0.22.1680.973@0.22.1680.973" timestamp="1582104655841" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1582186340569">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.995@0.0.1680.995" timestamp="1582186340569" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1582186340568">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.995@0.0.1680.995" timestamp="1582186340568" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1582186340568">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.995@0.0.1680.995" timestamp="1582186340568" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1582186340568">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.995@0.0.1680.995" timestamp="1582186340568" />
+    <state x="0" y="70" key="SettingsEditor" timestamp="1582242007466">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state x="0" y="70" key="SettingsEditor/0.0.1680.995@0.0.1680.995" timestamp="1582242007466" />
+    <state x="0" y="90" key="SettingsEditor/0.22.1680.973@0.22.1680.973" timestamp="1582026497077" />
+    <state x="159" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1582240819492">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state x="159" y="326" key="com.intellij.ide.util.TipDialog/0.0.1680.995@0.0.1680.995" timestamp="1582240819492" />
+    <state x="159" y="341" key="com.intellij.ide.util.TipDialog/0.22.1680.973@0.22.1680.973" timestamp="1582103738048" />
+    <state x="602" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1582185334944">
+      <screen x="0" y="0" width="1680" height="995" />
+    </state>
+    <state x="602" y="148" key="refactoring.ChangeSignatureDialog/0.0.1680.995@0.0.1680.995" timestamp="1582185334944" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Brick_Breaker$Main.ic" NAME="Main Coverage Results" MODIFIED="1582026772713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
