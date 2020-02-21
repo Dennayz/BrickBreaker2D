@@ -15,4 +15,4 @@ Built a Brick Breaker Game to practice Java Swing and OOP Design. Needed to pres
 - How JLabel, JPanel and JLayeredPane works, because I struggled so hard to understand how to layer each Panel ontop of each other, but then I realized you needed JLabels to do that and use a main JLayeredPane to add Labels and then use the main Frame to add the JLayeredPanel onto The main JFrame
 
 
-![](https://github.com/Dennayz/BrickBreaker2D/blob/master/grid.png)
+![](https://github.com/Dennayz/BrickBreaker2D/blob/images/Gameplay.png)
