@@ -7,6 +7,7 @@ Built a Brick Breaker Game to practice Java Swing and OOP Design. Needed to pres
 - jar file in out/artifacts/
 - make sure to import the javazoom jar file 
 - can play with A & D keys or LEFT & RIGHT arrow keys to move paddle around
+  - you can both A & LEFT arrow keys or both D & RIGHT arrow keys to speed up the movement :) (cheating)
 
 # LEARNING EXPERIENCE
 
