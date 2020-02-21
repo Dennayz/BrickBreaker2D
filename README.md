@@ -16,4 +16,4 @@ Built a Brick Breaker Game to practice Java Swing and OOP Design. Needed to pres
 
 
 ![](https://github.com/Dennayz/BrickBreaker2D/blob/master/images/Gameplay.png)
-![](https://github.com/Dennayz/BrickBreaker2D/blob/master/images/Gameplay.png)
+![](https://github.com/Dennayz/BrickBreaker2D/blob/master/images/Gameplay_screen.png)
