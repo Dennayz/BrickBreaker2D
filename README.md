@@ -3,9 +3,6 @@
 Built a Brick Breaker Game to practice Java Swing and OOP Design. Needed to present a Final project for School so I decided to practice building games using Java to further prepare.
 
 # HOW TO PLAY
-```sh
-$ cd ls
-```
 - jar file in out/artifacts/
 - make sure to import the javazoom jar file 
 - can play with A & D keys or LEFT & RIGHT arrow keys to move paddle around
